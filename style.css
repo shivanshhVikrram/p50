@@ -1,0 +1,20 @@
+h1{
+    color: lightcoral;
+    border: 10px solid #888787 ;
+    background-color: #888787 ;
+}
+body{
+    background-image: url("background.jpeg");
+    background-size: cover ;
+}
+img{
+    border: 5px solid #050404 ;
+    border-radius: 40px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
